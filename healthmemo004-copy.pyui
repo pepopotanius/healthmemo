@@ -1,0 +1,656 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 52}, {572, 41}}",
+        "class" : "TextField",
+        "attributes" : {
+          "action" : "",
+          "font_size" : 20,
+          "frame" : "{{254, 368}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "6F710D34-0CD5-4805-9A21-C94951CFA56D",
+          "alignment" : "left",
+          "text" : "",
+          "autocorrection_type" : "default",
+          "name" : "text1",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{436, 150}, {80, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "b01_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "1",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "b01",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{436, 310}, {80, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "b03_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "3",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "b03",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{524, 230}, {80, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "b07_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "7",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "b07",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{436, 390}, {80, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "b04_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "4",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "b04",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{524, 550}, {80, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "b00_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "00",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "b00",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{436, 470}, {80, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "b05_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "5",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "b05",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{436, 230}, {80, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "b02_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "2",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "b02",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 470}, {94, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "loadinput",
+          "image_name" : "iob:ios7_cloud_download_outline_32",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "load",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(0.266667,1.000000,0.266667,1.000000)",
+          "class" : "Button",
+          "name" : "bload",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{524, 310}, {80, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "b08_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "8",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "b08",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{524, 470}, {80, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "b0_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "0",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "b0",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{524, 390}, {80, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "b09_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "9",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "b09",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 150}, {194, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "taijyuuAMinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "体重AM",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "ttaijyuuAM",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 190}, {194, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "taijyuuPMinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "体重PM",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "ttaijyuuPM",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 230}, {194, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "ketuatuueAMinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "血圧上AM",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "tketuatuueAM",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 12}, {572, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "日付・・・",
+          "uuid" : "61026267-1FAC-45B5-9261-F7077490FA9E",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "lasttext",
+          "font_size" : 20
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 270}, {194, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "ketuatusitaAMinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "血圧下AM",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "tketuatusitaAM",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 350}, {194, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "ketuatuuePMinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "血圧上PM",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "tketuatuuePM",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 310}, {194, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "myakuhakuAMinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "脈拍AM",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "tmyakuhakuAM",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 390}, {194, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "ketuatusitaPMinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "血圧下PM",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "tketuatusitaPM",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{32, 430}, {194, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "myakuhakuPMinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "脈拍PM",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "tmyakuhakuPM",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{234, 190}, {194, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "hosuuinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "歩数",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "thosuu",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{234, 230}, {194, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "memoinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "memo",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "tmemo",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{234, 150}, {194, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "taisibouinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "体脂肪　％",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "ttaisibou",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{234, 390}, {194, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "taionAMinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "体温AM",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "ttaionAM",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{234, 430}, {194, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "taionPMinput",
+          "frame" : "{{344, 496}, {80, 32}}",
+          "title" : "体温PM",
+          "uuid" : "A187D39B-77D9-4CD0-B4B9-AD98BD2B7460",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "class" : "Button",
+          "background_color" : "RGBA(0.771226,0.771226,0.771226,1.000000)",
+          "name" : "ttaionPM",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{524, 150}, {80, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "b06_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "6",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "b06",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{234, 470}, {90, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "createinput",
+          "font_size" : 15,
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "create",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(0.266667,1.000000,0.266667,1.000000)",
+          "class" : "Button",
+          "name" : "bcreate",
+          "image_name" : "iob:leaf_32"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{134, 470}, {92, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "saveinput",
+          "font_size" : 15,
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "save",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(0.266667,1.000000,0.266667,1.000000)",
+          "class" : "Button",
+          "name" : "bsave",
+          "image_name" : "iob:ios7_cloud_upload_outline_32"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{332, 470}, {96, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "deleteinput",
+          "image_name" : "iob:ios7_trash_32",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "delete",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(0.266667,1.000000,0.266667,1.000000)",
+          "class" : "Button",
+          "font_size" : 15,
+          "name" : "bdelete"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{332, 550}, {184, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "bclear_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "clear",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "bclear",
+          "font_size" : 50
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{234, 310}, {194, 72}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "bmemoread_click",
+          "frame" : "{{472, 284}, {80, 32}}",
+          "title" : "memoread",
+          "uuid" : "A94A4D9E-3A5F-4687-8759-C78625266BD8",
+          "background_color" : "RGBA(1.000000,0.844444,0.533333,1.000000)",
+          "class" : "Button",
+          "name" : "bmemoread",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{640, 150}, {346, 312}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "alpha" : 1,
+          "border_width" : 1,
+          "frame" : "{{462, 334}, {100, 100}}",
+          "border_color" : "RGBA(1.000000,0.533333,0.300000,1.000000)",
+          "class" : "ImageView",
+          "uuid" : "2D875A02-DC26-4EEE-A03C-1CD264CACCBE",
+          "corner_radius" : 0,
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "name" : "graphview",
+          "image_name" : "iob:arrow_graph_down_right_256"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{640, 470}, {346, 286}}",
+        "class" : "TextView",
+        "attributes" : {
+          "uuid" : "DC7E0A0D-573D-487E-9D7D-527DD4E5EBF6",
+          "font_size" : 10,
+          "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{412, 284}, {200, 200}}",
+          "editable" : true,
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "text" : "",
+          "font_name" : "<System>",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "name" : "txtcsv",
+          "flex" : "WH"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "attributes" : {
+      "name" : "",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(0.833333,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
